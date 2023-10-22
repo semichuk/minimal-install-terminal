@@ -217,7 +217,7 @@ prompt_hg() {
 
 # Dir: current working directory
 prompt_dir() {
-  prompt_segment blue $CURRENT_FG "$(pwd)"
+  prompt_segment blue $CURRENT_FG "$(basename $(pwd))"
 }
 
 # Virtualenv: current working virtualenv

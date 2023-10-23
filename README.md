@@ -1,2 +1,2 @@
 # minimal-install-terminal
-![preview](https://github.com/semichuk/tfprint-spa-products/raw/main/preview/2.png)
+![preview](https://github.com/semichuk/minimal-install-terminal/image.png)
